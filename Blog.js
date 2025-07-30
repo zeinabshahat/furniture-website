@@ -22,7 +22,7 @@
         title: title,
         content: content,
         image: imageSrc,
-        author: "Zeinab", // تقدر تحطي اسم المستخدم هنا
+        author: "Zeinab,
         likes: 0,
         comments: 0
       };
